@@ -39,9 +39,9 @@
 #define GRN_BIT		PD7
 
 #define SPKR_DDR 	DDRD
-#define SPKR_PORT	PORTD
-#define SPKR_PIN	PIND
-#define SPKR_BIT	PD6
+#define SPKR_PORT 	PORTD
+#define SPKR_PIN 	PIND
+#define SPKR_BIT 	PD6
 
 #define SPEED_OF_SOUND  343                                           /* meters in second. */
 #define MAX_SONAR_RANGE 10                                            /* meters */
